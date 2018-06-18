@@ -1,0 +1,4 @@
+Mai 24, 2018 3:49:41 PM de.isse.robotics.ViconAccess startLogger
+INFORMATION: Initial TestLog
+Mai 24, 2018 3:49:41 PM de.isse.robotics.ViconAccess startLogger
+SCHWERWIEGEND: 1.655206963075406 : 1,65521
